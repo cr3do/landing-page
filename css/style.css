@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    background-color: skyblue;
+    
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+}
