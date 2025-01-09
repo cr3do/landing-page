@@ -109,7 +109,7 @@ nav .nav-list {
 
 .qoute-section {    
     color: #1f2937;
-    padding: 30px 400px;
+    padding: 50px 400px;
 }
 
 .qoute-section p {
@@ -127,7 +127,7 @@ nav .nav-list {
 /* call-to-action-section */
 
 .call-to-action-section {
-    padding: 30px 300px;
+    padding: 50px 300px;
 }
 
 .cta-card-container {
@@ -149,3 +149,16 @@ nav .nav-list {
 }
 
 /* call-to-action-section end */
+
+
+
+/* footer */
+
+footer {
+    padding: 50px 150px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+}
+
+/* footer end */
