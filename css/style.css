@@ -103,6 +103,8 @@ nav .nav-list {
 
 /* content-two end */
 
+
+
 /* quote-section */
 
 .qoute-section {    
@@ -119,3 +121,31 @@ nav .nav-list {
 }
 
 /* qoute-section end */
+
+
+
+/* call-to-action-section */
+
+.call-to-action-section {
+    padding: 30px 300px;
+}
+
+.cta-card-container {
+    padding: 50px 150px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
+.cta-card-2 a {
+    text-decoration: none;
+    color: #f9faf8;
+    padding: 7px 30px;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+}
+
+/* call-to-action-section end */
