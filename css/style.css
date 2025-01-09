@@ -102,3 +102,20 @@ nav .nav-list {
 }
 
 /* content-two end */
+
+/* quote-section */
+
+.qoute-section {    
+    color: #1f2937;
+    padding: 30px 400px;
+}
+
+.qoute-section p {
+    font-size: 36px;
+}
+
+.qoute-section h2 {
+    text-align: right;
+}
+
+/* qoute-section end */
